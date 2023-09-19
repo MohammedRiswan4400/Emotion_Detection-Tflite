@@ -1,7 +1,7 @@
 # ml_emotion
 
-A new Flutter project.
-here is the Live Demo:- https://www.instagram.com/p/CxWKRoFoL4N/
+Live emotion detection App with Tensorflow lite.
+Here is the Live Demo:- https://www.instagram.com/p/CxWKRoFoL4N/
 
 ## Getting Started
 
